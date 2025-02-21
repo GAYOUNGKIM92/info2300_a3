@@ -90,7 +90,3 @@ All diary entries are stored in the browser's LocalStorage, ensuring data persis
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Why MIT License?
-- It allows anyone to use, modify, and distribute the code freely.
-- It is widely used and recognized in open-source projects.
-- It imposes minimal restrictions, making it ideal for personal and commercial projects.
